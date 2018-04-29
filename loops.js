@@ -15,7 +15,7 @@ function forLoop(array)
 }
 function whileLoop(int)
 {
-  while(int >= 0)
+  while(int > 0)
   {
     int--;
     console.log(int);
